@@ -22,6 +22,8 @@
 - 学校 = Xué xiào = school
 - 同学 = Tóng xué = classmate
 - 大学 = Dà xué = college
+- 学问 = Xué wèn = learning, knowledge
+- 放学 = Fàng xué = After school
 
 - 大学 的 时候 = in college
 
