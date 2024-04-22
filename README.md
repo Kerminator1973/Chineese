@@ -79,7 +79,7 @@
 - 一共 = всего
 - 不行 = Bù Xíng = Not OK
 
-## Слова, связанные со школой (学):
+## Слова, связанные со школой (学)
 
 - 学生 = Xué shēng = student, pupil
 - 学校 = Xué xiào = school
@@ -92,8 +92,17 @@
 
 Ключевой иероглиф - 学, т.е. указывает на отношение к школе.
 
+## Слова, связанные с электронными устройствами (电 - electricity)
+
+- 电话 = Diàn huà = phone
+- 电脑 = Diàn nǎo = computer
+- 电视 = Diàn shì = TV
+
+## Прочее
+
 - 帅 = shuài = предводитель, видный, солидный. Handsome
 - 大 = Dà = large, big, great, major
+- 小 = Xiǎo = small
 - 班 = Bān = class, урок
 - 男生 = Nán shēng = boy
 - 男朋友 = Nán péng yǒu = boyfriend
