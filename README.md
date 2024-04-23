@@ -97,6 +97,18 @@
 - 电话 = Diàn huà = phone
 - 电脑 = Diàn nǎo = computer
 - 电视 = Diàn shì = TV
+- 电影院 = Diàn Yǐng Yuàn = movie theater
+
+## Слова, связанные с помещением для обслуживания клиентов (馆 - pavilion)
+
+- 饭馆 = Fàn Guǎn = restaurant => павильон еды
+- 图书馆 = Túshū Guǎn = library => павильон книг
+- 咖啡馆 = Kāfēi guǎn = cafe =>  павильон кофе
+
+## Слова, связанные с транспортом (车 - vehicle)
+
+- 出租车 = Chūzū chē = taxi
+- 公交车 = gōngjiāo chē = bus / автобус
 
 ## Прочее
 
