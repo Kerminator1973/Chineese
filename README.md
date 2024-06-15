@@ -82,10 +82,12 @@
 ## Слова, связанные со школой (学 - study, learn)
 
 - 学生 = Xué shēng = student, pupil
+- 中学生 = Zhōng Xué shēng = middle school student
 - 学校 = Xué xiào = school
+- 学习 = Xué xí = studying
+- 学问 = Xué wèn = learning, knowledge
 - 同学 = Tóng xué = classmate
 - 大学 = Dà xué = college
-- 学问 = Xué wèn = learning, knowledge
 - 放学 = Fàng xué = After school
 
 - 大学 的 时候 = in college
@@ -120,6 +122,7 @@
 
 - 帅 = shuài = предводитель, видный, солидный. Handsome
 - 大 = Dà = large, big, great, major
+- 中 = Zhōng = middle
 - 小 = Xiǎo = small
 - 班 = Bān = class, урок
 - 男生 = Nán shēng = boy
